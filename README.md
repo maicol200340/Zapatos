@@ -27,7 +27,7 @@ Programa en consola para una tienda de ropa. Permite al Gestor de Compra y Venta
 
 ![logo2](https://github.com/maicol200340/Zapatos/assets/62326011/4c341894-72df-496c-b9d2-28da401a817a)
 
-![Imagen del Proyecto](Images/CodigoJava.png)
+
 
 <h2>Diagrama de Flujo</h2>
 
