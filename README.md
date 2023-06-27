@@ -27,3 +27,19 @@ Programa en consola para una tienda de ropa. Permite al Gestor de Compra y Venta
 
 
 
+![Imagen del Proyecto](Images/CodigoJava.png)
+
+<h2>Diagrama de Flujo</h2>
+
+![Imagen del Proyecto](Images/DiagramaFlujo.png)
+
+<h2>Jira</h2>
+
+![Imagen del Proyecto](Images/Jira.png)
+
+<h2>Caso de Uso</h2>
+
+![Imagen del Proyecto](Images/CasoUso.png)
+
+
+
