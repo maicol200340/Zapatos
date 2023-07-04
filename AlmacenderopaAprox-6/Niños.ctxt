@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Ni\u00F1os
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ni\u00F1os\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=identificacion\ nombre\ talla\ temporada\ prendauno\ prendados
+comment1.target=Ni\u00F1os(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularpromedio()
+comment3.params=
+comment3.target=double\ getPrendauno()
+comment4.params=prendauno
+comment4.target=void\ setPrendauno(double)
+comment5.params=
+comment5.target=double\ getPrendados()
+comment6.params=prendados
+comment6.target=void\ setPrendados(double)
+comment7.params=
+comment7.target=double\ calcularPromedio()
+numComments=8

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Mujeres
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mujeres\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=identificacion\ nombre\ talla\ temporada\ prendauno\ prendados\ prendatres\ prendacuatro
+comment1.target=Mujeres(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ double)
+comment10.params=prendacuatro
+comment10.target=void\ setPrendacuatro(double)
+comment11.params=
+comment11.target=double\ calcularPromedio()
+comment2.params=
+comment2.target=double\ calcularpromedio()
+comment3.params=
+comment3.target=double\ getPrendauno()
+comment4.params=prendauno
+comment4.target=void\ setPrendauno(double)
+comment5.params=
+comment5.target=double\ getPrendados()
+comment6.params=prendados
+comment6.target=void\ setPrendados(double)
+comment7.params=
+comment7.target=double\ getPrendatres()
+comment8.params=prendatres
+comment8.target=void\ setPrendatres(double)
+comment9.params=
+comment9.target=double\ getPrendacuatro()
+numComments=12
